@@ -1,3 +1,5 @@
+# encoding: utf-8 	
+
 items = {
 	"picture" => "obraz",
 	"bin" => "śmietnik",
